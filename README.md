@@ -5,7 +5,7 @@ ground bot which communicates with the drone using LoRa SX1278 Ra-02 module and 
 
 ## Description of Units
 ### Drone
-hlo
+
 
 ## File Details 
 
